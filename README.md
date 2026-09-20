@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Retro workstation banner" width="100%" />
-</p>
+
 
 <p align="center">
   <img src="assets/retro-computer.gif" alt="Animated retro computer" width="420" />
