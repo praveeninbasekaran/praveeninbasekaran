@@ -11,7 +11,7 @@ Software engineer building **Java services**, **TypeScript tools**, and **archit
 ## Featured public projects
 
 - **[Code-Flow-Viewer](https://github.com/praveeninbasekaran/Code-Flow-Viewer)** — Browser-based layered diagrams of request flow (UI → controller → service → DB). Load a flow.json; no install.
-- **[bot-rider](https://github.com/praveeninbasekaran/bot-rider)** — HTML tooling for bot / rider workflows.
+- **[bot-rider](https://github.com/praveeninbasekaran/bot-rider)** — VS Code extension: a team of AI specialists powered by GitHub Copilot. You review what they change.
 - **[lit-assessment-app](https://github.com/praveeninbasekaran/lit-assessment-app)** — JavaScript assessment app.
 - **[specloom](https://github.com/praveeninbasekaran/specloom)** — Python project for specs and related tooling.
 - **[NexusConnect](https://github.com/praveeninbasekaran/NexusConnect)** — TypeScript connector app.
