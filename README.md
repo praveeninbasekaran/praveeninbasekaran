@@ -1,6 +1,16 @@
-# Praveen Inbasekaran
+<p align="center">
+  <img src="assets/banner.png" alt="Retro workstation banner" width="100%" />
+</p>
 
-Software engineer building **Java services**, **TypeScript tools**, and **architecture / data-lineage** apps.
+<p align="center">
+  <img src="assets/retro-computer.gif" alt="Animated retro computer" width="420" />
+</p>
+
+<h1 align="center">Praveen Inbasekaran</h1>
+
+<p align="center">
+  Software engineer building <b>Java services</b>, <b>TypeScript tools</b>, and <b>architecture / data-lineage</b> apps.
+</p>
 
 ## What I work on
 
